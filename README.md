@@ -13,13 +13,12 @@
 
 ---
 
-⚡ I earned my **B.E. in Computer Engineering** with **Honors in Data Science** from Shah & Anchor Kutchhi Engineering College, Mumbai, Batch 2024 `<br>`
-⚡ Looking forward to have a successful professional career as a **Data Analyst** `<br>`
-⚡ Constantly improving my data analysis skills: I love working on new datasets and utilizing tools like Python, SQL, and Power BI. `<br>`
-⚡ I've led and collaborated on projects focused on machine learning, predictive modeling, and data visualization. `<br>`
-⚡ Presented a paper titled "Phishing URL Detection: Leveraging Machine Learning for Improved Security Measures”at ICICBDA2024 Published under the "Artificial Intelligence" track. `<br>`
-⚡ Co-developed and obtained copyright for an advanced email security tool leveraging Random Forest models to protect against
-malicious phishing attempts.
+⚡ I earned my **B.E. in Computer Engineering** with **Honors in Data Science** from Shah & Anchor Kutchhi Engineering College, Mumbai, Batch 2024 <br>
+⚡ Looking forward to have a successful professional career as a **Data Analyst** <br>
+⚡ Constantly improving my data analysis skills: I love working on new datasets and utilizing tools like **Python, SQL, and Power BI**. <br>
+⚡ I've led and collaborated on projects focused on **machine learning**, **predictive modeling**, and **data visualization**. <br>
+⚡ Presented a paper titled "Phishing URL Detection: Leveraging Machine Learning for Improved Security Measures" at ICICBDA2024 Published under the "**Artificial Intelligence**" track. <br>
+⚡ Co-developed and obtained copyright for an advanced email security tool leveraging Random Forest models to protect against malicious phishing attempts.
 
 ### ⚙️ &nbsp; Tech Stack :
 
