@@ -2,7 +2,7 @@
 
 <h1 align="center">नमस्ते! (Namaste!) 🙏 </h1>
 
-`<img src = "./img/header.png"/><br>`
+<img src = "./header.png"/><br>
 
 <div align = 'center'>
 <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
