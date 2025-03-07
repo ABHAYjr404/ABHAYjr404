@@ -29,7 +29,7 @@
 
 **Cloud Platforms:**
 
-* [☁️](https://emojipedia.org/cloud) Azure, AWS, GCP
+* ☁️ Azure, AWS, GCP
 
 **Development & Tools:**
 
@@ -72,7 +72,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/abhay-chheda/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/4a90e2/linkedin.png"/></a>
   <a href="mailto:abhaychheda786@gmail.com"><img src="https://img.icons8.com/clouds/90/4a90e2/gmail.png" alt="Email"/></a>
-   <a href="https://api.whatsapp.com/send?phone=8779337436"><img src="https://img.icons8.com/clouds/90/000000/whatsapp.png" alt="WhatsApp"/></a>
 
 🚀 **Check out my portfolio:** [abhay-chheda-portfolio.vercel.app](https://abhay-chheda-portfolio.vercel.app/)
 
