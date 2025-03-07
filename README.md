@@ -1,7 +1,7 @@
 
 <h1 align="center">नमस्ते! (Namaste!) 🙏 </h1>
 
-`<img src = "./img/header.png"/><br>`
+<img src = "/header.png"/><br>
 
 ## ⚙️ About Me
 
