@@ -1,30 +1,41 @@
-<body style="background-color:WhiteSmoke;">
 
 <h1 align="center">नमस्ते! (Namaste!) 🙏 </h1>
 
-<img src = "./header.png"/><br>
+`<img src = "./img/header.png"/><br>`
 
-<div align = 'center'>
-<img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
-  <p align = 'center'><b>A Data Analyst with strong problem-solving skills, passionate about data science, machine learning, and open-source technology. Curious and eager to dive into modern data analysis tools and techniques, I actively participated in research based data-centric projects during college. Fun Fact: I enjoy listening to lo-fi beats 🎵 while working with data!</b></p> <br>
-</div>
+## ⚙️ About Me
 
-### ⚙️ &nbsp; About Me :
+### Hi, I'm Abhay Chheda!
 
----
+#### I specialize in **Web Development, Data Science & Analytics, AI/ML, Automation, and Web Scraping**, leveraging a deep technical skill set in **Python, SQL, the MERN Stack, Power BI, Tableau, and cloud technologies**. With a passion for building data-driven solutions and intelligent automation, I transform complex data into actionable insights and develop high-performance web applications that drive efficiency and innovation.
 
-⚡ I earned my **B.E. in Computer Engineering** with **Honors in Data Science** from Shah & Anchor Kutchhi Engineering College, Mumbai, Batch 2024 <br>
-⚡ Looking forward to have a successful professional career as a **Data Analyst** <br>
-⚡ Constantly improving my data analysis skills: I love working on new datasets and utilizing tools like **Python, SQL, and Power BI**. <br>
-⚡ I've led and collaborated on projects focused on **machine learning**, **predictive modeling**, and **data visualization**. <br>
-⚡ Presented a paper titled "Phishing URL Detection: Leveraging Machine Learning for Improved Security Measures" at ICICBDA2024 Published under the "**Artificial Intelligence**" track. <br>
-⚡ Co-developed and obtained copyright for an advanced email security tool leveraging Random Forest models to protect against malicious phishing attempts.
-
-### ⚙️ &nbsp; Tech Stack :
+🔗  **Check out my portfolio:** [abhay-chheda-portfolio.vercel.app](https://abhay-chheda-portfolio.vercel.app/)
 
 ---
 
-<p align="center">
+## 🛠 Tech Stack & Tools
+
+**Programming & Data Analysis:**
+
+* 🐍 Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
+* 🗄️ SQL (PostgreSQL, MySQL)
+* 📊 Power BI, Tableau
+* 📡 APIs, Web Scraping (Selenium, BeautifulSoup)
+
+**Web Development:**
+
+* ⚛️ React.js, JavaScript, Node.js, Express.js , Next.js, TailwindCSS, TypeScript
+* 💾 MongoDB, Firebase
+
+**Cloud Platforms:**
+
+* [☁️](https://emojipedia.org/cloud) Azure, AWS, GCP
+
+**Development & Tools:**
+
+* 🔧 Git, GitHub, Docker
+* 📝 Jupyter Notebook, VS Code
+
 
 <img alt="Python" src="https://img.shields.io/badge/python-E34F26?style=for-the-badge&logo=python&logoColor=white" />
 <img alt="PowerBI" src="https://img.shields.io/badge/Powerbi-007ACC?style=for-the-badge&logo=&logoColor=white" />
@@ -47,11 +58,22 @@
 <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-FFAC45?style=for-the-badge&logo=openai&logoColor=white" />
 </p><br>
 
-### ⚙️ &nbsp; Connect with me :
+---
+
+## 📚 Publications & Achievements
+
+* 📝 Published research paper: **"Phishing URL Detection: Leveraging Machine Learning for Improved Security Measures"** in the Springer **SCOPUS-indexed Communications in Computer and Information Science (CCIS)** series.
+* 🔒 Co-developed & copyrighted  **"Email Sentinel"** , an advanced **email security tool** using **Random Forest models** to prevent phishing attacks.
 
 ---
+
+## 🌍 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhay-chheda/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/90/4a90e2/linkedin.png"/></a>
   <a href="mailto:abhaychheda786@gmail.com"><img src="https://img.icons8.com/clouds/90/4a90e2/gmail.png" alt="Email"/></a>
    <a href="https://api.whatsapp.com/send?phone=8779337436"><img src="https://img.icons8.com/clouds/90/000000/whatsapp.png" alt="WhatsApp"/></a>
+
+🚀 **Check out my portfolio:** [abhay-chheda-portfolio.vercel.app](https://abhay-chheda-portfolio.vercel.app/)
+
+📩 Feel free to reach out for collaborations, projects, or a chat about data science! 😃
