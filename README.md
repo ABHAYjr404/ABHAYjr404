@@ -56,13 +56,12 @@
 <img alt="Canva" src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-FFAC45?style=for-the-badge&logo=openai&logoColor=white" />
-</p><br>
 
 ---
 
 ## 📚 Publications & Achievements
 
-* 📝 Published research paper: **"Phishing URL Detection: Leveraging Machine Learning for Improved Security Measures"** in the Springer **SCOPUS-indexed Communications in Computer and Information Science (CCIS)** series.
+* 📝 Published research paper: **"[Phishing URL Detection: Leveraging Machine Learning for Improved Security Measures](https://link.springer.com/chapter/10.1007/978-3-031-74682-6_12)"** in the Springer **SCOPUS-indexed Communications in Computer and Information Science (CCIS)** series.
 * 🔒 Co-developed & copyrighted  **"Email Sentinel"** , an advanced **email security tool** using **Random Forest models** to prevent phishing attacks.
 
 ---
