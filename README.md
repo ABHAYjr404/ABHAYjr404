@@ -36,7 +36,7 @@
 * 🔧 Git, GitHub, Docker
 * 📝 Jupyter Notebook, VS Code
 
-
+<p>
 <img alt="Python" src="https://img.shields.io/badge/python-E34F26?style=for-the-badge&logo=python&logoColor=white" />
 <img alt="PowerBI" src="https://img.shields.io/badge/Powerbi-007ACC?style=for-the-badge&logo=&logoColor=white" />
 <img alt="Tableau" src="https://img.shields.io/badge/Tableau-007ACC?style=for-the-badge&logo=Tableau&logoColor=white" />
@@ -56,6 +56,7 @@
 <img alt="Canva" src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-FFAC45?style=for-the-badge&logo=openai&logoColor=white" />
+</p><br>
 
 ---
 
