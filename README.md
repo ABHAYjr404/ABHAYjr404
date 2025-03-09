@@ -17,7 +17,7 @@
 
 **Programming & Data Analysis:**
 
-* 🐍 Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
+* 🐍 Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Keras, Tensorflow)
 * 🗄️ SQL (PostgreSQL, MySQL)
 * 📊 Power BI, Tableau
 * 📡 APIs, Web Scraping (Selenium, BeautifulSoup)
